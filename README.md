@@ -143,7 +143,7 @@ The synthesized Verilog netlist is available in:
 
 The complete Yosys synthesis report is available in:
 
-`synthesis_report.txt
+`synthesis_report.txt`
 
 ## Simulation Results
 
