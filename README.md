@@ -111,3 +111,11 @@ The project can be extended by adding:
 ## 👨‍💻 Author
 
 4-Bit ALU Design and Verification Project
+## Simulation Results
+### RTL Simulation Waveform
+
+![RTL Waveform](Screenshot%202026-09-28%20213258.png)
+
+### Synthesized ALU Waveform
+
+![Synthesized Waveform](ALU_SYNTHESIZED.png)
