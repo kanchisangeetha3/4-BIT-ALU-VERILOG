@@ -112,7 +112,42 @@ The project can be extended by adding:
 
 4-Bit ALU Design and Verification Project
 ## Simulation Results
+
 ### RTL Simulation Waveform
+
+![RTL Waveform](Screenshot2026-09-28 213258.png)
+## Synthesis Results
+
+The 4-bit ALU was synthesized using Yosys.
+
+### Synthesis Statistics
+
+| Parameter | Value |
+|---|---:|
+| Number of wires | 30 |
+| Number of wire bits | 99 |
+| Number of public wires | 4 |
+| Number of public wire bits | 14 |
+| Number of memories | 0 |
+| Number of processes | 0 |
+| Number of cells | 84 |
+| AND gates | 27 |
+| MUX gates | 4 |
+| NOT gates | 11 |
+| OR gates | 28 |
+| XOR gates | 14 |
+
+The synthesized Verilog netlist is available in:
+
+`alu_synthesized.v`
+
+The complete Yosys synthesis report is available in:
+
+`synthesis_report.txt`33
+
+### Synthesized ALU Waveform
+
+![Synthesized Waveform](ALU_SYNTHESIZED.png)
 
 ![RTL Waveform](Screenshot%202026-09-28%20213258.png)
 
