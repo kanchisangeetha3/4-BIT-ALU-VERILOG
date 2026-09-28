@@ -149,15 +149,15 @@ The complete Yosys synthesis report is available in:
 
 ### ALU Simulation Waveform
 
-![ALU Simulation Waveform](./Screenshot%202026-09-28%20193036.png)
+![ALU Simulation Waveform](Screenshot%202026-09-28%20193036.png)
 
 ### RTL Simulation Waveform
 
-![RTL Simulation Waveform](./Screenshot%202026-09-28%20213258.png)
+![RTL Simulation Waveform](Screenshot%202026-09-28%20213258.png)
 
 ### Synthesized ALU Waveform
 
-![Synthesized ALU Waveform](./ALU_SYNTHESIZED.png)
+![Synthesized ALU Waveform](ALU_SYNTHESIZED.png)
 
 ## Synthesis Results
 
@@ -186,4 +186,4 @@ The synthesized Verilog netlist is available in:
 
 The complete Yosys synthesis report is available in:
 
-`synthesis_report.txt`
+`synthesis_report.txt
