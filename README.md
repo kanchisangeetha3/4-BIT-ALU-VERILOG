@@ -148,9 +148,7 @@ The complete Yosys synthesis report is available in:
 ## Simulation Results
 
 <img src="rtl_waveform.png" width="700">
-
 <img src="sim_waveform.png" width="700">
-
 <img src="syn_waveform.png" width="700">
 
 ## Synthesis Results
