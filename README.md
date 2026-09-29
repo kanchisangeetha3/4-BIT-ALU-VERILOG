@@ -147,17 +147,17 @@ The complete Yosys synthesis report is available in:
 
 ## Simulation Results
 
-### ALU Simulation Waveform
+![RTL Waveform](images/rtl_waveform.png)
 
-![ALU Simulation Waveform](Screenshot%202026-09-28%20193036.png)
 
-### RTL Simulation Waveform
 
-![RTL Simulation Waveform](Screenshot%202026-09-28%20213258.png)
 
-### Synthesized ALU Waveform
+![Simulation Waveform](images/sim_waveform.png)
 
-![Synthesized ALU Waveform](ALU_SYNTHESIZED.png)
+
+
+
+![Synthesized Waveform](images/alu_synthesized.png)
 
 ## Synthesis Results
 
