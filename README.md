@@ -147,17 +147,11 @@ The complete Yosys synthesis report is available in:
 
 ## Simulation Results
 
-![RTL Waveform](images/rtl_waveform.png)
+<img src="rtl_waveform.png" width="700">
 
+<img src="sim_waveform.png" width="700">
 
-
-
-![Simulation Waveform](images/sim_waveform.png)
-
-
-
-
-![Synthesized Waveform](images/syn_waveform.png)
+<img src="syn_waveform.png" width="700">
 
 ## Synthesis Results
 
