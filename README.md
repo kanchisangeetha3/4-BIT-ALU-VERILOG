@@ -157,7 +157,7 @@ The complete Yosys synthesis report is available in:
 
 
 
-![Synthesized Waveform](images/alu_synthesized.png)
+![Synthesized Waveform](images/syn_waveform.png)
 
 ## Synthesis Results
 
